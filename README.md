@@ -15,7 +15,7 @@ please don't hasitate question to us. <lonycell@gmail.com>
 # neom2m - w200 #
 
 ## Development Guide Documnet ##
-* Develop Guide
+* Develop Guide Doc : <ftp://virtual.mdstec.com/neo-w200/dev_guide_doc>
 
 ## USB Driver ##
 * NeoW200 driver v1.0 : <ftp://virtual.mdstec.com/neo-w200/usb_driver/neom2m_usb_driver_v1.0.zip>
